@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
-title: Hayden's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Hayden Peterson
+description: Personal website for sharing projects and contact info.
+theme: null
+baseurl: ""
+url: "https://haydenkpeterson.github.io"
+sass:
+  style: expanded
