@@ -26,24 +26,7 @@ description: Personal website for Hayden Peterson, sharing interests and recent 
       <article class="card">
         <h3>Pathfinder</h3>
         <p>
-          A digital garden for collecting notes, code snippets, and resources.
-          Built with static site tooling and custom styling.
-        </p>
-        <a href="#">Read more</a>
-      </article>
-      <article class="card">
-        <h3>Trail Finder</h3>
-        <p>
-          A Progressive Web App that surfaces nearby trails and lets you log
-          your outdoor adventures with photos and notes.
-        </p>
-        <a href="#">Read more</a>
-      </article>
-      <article class="card">
-        <h3>Portfolio Boilerplate</h3>
-        <p>
-          Lightweight starter for personal portfolios using semantic HTML and
-          modern CSS to get up and running quickly.
+          A career finder for freshman students that will help them find a major.
         </p>
         <a href="#">Read more</a>
       </article>
@@ -62,7 +45,7 @@ description: Personal website for Hayden Peterson, sharing interests and recent 
     <div class="social-links">
       <a href="https://github.com/haydenkpeterson">GitHub</a>
       <a href="https://linkedin.com/in/haydenkpeterson">LinkedIn</a>
-      <a href="{{ '/assets/resume/hayden-peterson-resume.pdf' | relative_url }}" download>Resume</a>
+      <a href="{{ '/assets/resume/hayden-peterson-resume.pdf' | relative_url }}" download>Resume<a>
     </div>
   </div>
 </section>
