@@ -26,9 +26,9 @@ description: Personal website for Hayden Peterson, sharing interests and recent 
       <article class="card">
         <h3>Pathfinder</h3>
         <p>
-          A career finder for freshman students that will help them find a major.
+          Pathfinder is an interactive web app that helps users discover the best college majors and career paths for their unique interests, strengths, and values. It uses AI to guide users through a conversational journey, analyzes their responses, and matches them to real-world careers and majors using the RIASEC personality model and live labor market data.
         </p>
-        <a href="#">Read more</a>
+        <a href="https://github.com/jakenef/pathfinder">Read more</a>
       </article>
     </div>
   </div>
