@@ -45,7 +45,7 @@ description: Personal website for Hayden Peterson, sharing interests and recent 
     <div class="social-links">
       <a href="https://github.com/haydenkpeterson">GitHub</a>
       <a href="https://linkedin.com/in/haydenkpeterson">LinkedIn</a>
-      <a href="{{ '/assets/resume/hayden-peterson-resume.pdf' | relative_url }}" download>Resume<a>
+      <a href="{{ '/assets/resume/hayden-peterson-resume.pdf' | relative_url }}" download>Resume</a>
     </div>
   </div>
 </section>
