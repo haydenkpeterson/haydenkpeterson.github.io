@@ -1,6 +1,6 @@
 title: Hayden Peterson
 description: Personal website for sharing projects and contact info.
-theme: null
+theme: jekyll-theme-minimal
 baseurl: ""
 url: "https://haydenkpeterson.github.io"
 sass:
